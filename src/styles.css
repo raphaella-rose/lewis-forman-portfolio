@@ -64,6 +64,9 @@ body {
 .row {
   text-align: center;
 }
+.work-history-wrapper {
+  margin: 100px 175px;
+}
 .image-wrapper {
   border-radius: 2%;
   padding: 10px 10px;
