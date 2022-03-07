@@ -64,8 +64,8 @@ body {
 .row {
   text-align: center;
 }
-.work-history-wrapper {
-  margin: 100px 175px;
+.home-grid {
+  text-align: left;
 }
 .image-wrapper {
   border-radius: 2%;
@@ -73,10 +73,14 @@ body {
 }
 .headshot {
   height: auto;
+  width: 550px;
+}
+.headshot2 {
+  height: auto;
   width: 400px;
 }
 .text-wrapper {
-  padding: 70px 0px;
+  padding: 50px 0px;
 }
 .heading {
   color: var(--tertiary-color);
