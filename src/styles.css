@@ -1,0 +1,103 @@
+:root {
+  --heading-font: "Poppins", sans-serif;
+  --body-font: "Montserrat", sans-serif;
+  --primary-color: #4d525b;
+  --secondary-color: #222831;
+  --tertiary-color: #ff5722;
+}
+
+body {
+  background-color: #eeeeee;
+}
+
+.nav {
+  background: var(--primary-color);
+}
+
+.nav-link {
+  color: var(--secondary-color);
+  font-family: var(--heading-font);
+  font-size: 20px;
+}
+.nav-link:hover {
+  color: var(--secondary-color);
+}
+.navbar-brand {
+  color: var(--tertiary-color);
+  font-family: var(--heading-font);
+  font-size: 25px;
+}
+.navbar-brand:hover {
+  color: var(--tertiary-color);
+}
+.navbar-brand:visited {
+  color: var(--secondary-color);
+}
+.menu-icon {
+  color: var(--tertiary-color);
+}
+.active {
+  color: var(--tertiary-color);
+}
+.active:visited {
+  color: var(--secondary-color);
+}
+.inactive:visited {
+  color: var(--secondary-color);
+}
+.hero {
+  color: var(--tertiary-color);
+  background: var(--primary-color);
+  padding: 345px 0;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 75px;
+  font-family: var(--heading-font);
+}
+
+.hero h2 {
+  font-size: 37px;
+  font-family: var(--body-font);
+}
+
+footer {
+  background: var(--primary-color);
+  margin-top: 75px;
+  padding: 15px 0;
+  text-align: center;
+}
+.footer-header {
+  color: var(--secondary-color);
+  font-size: 27px;
+  font-weight: 400;
+  font-family: var(--heading-font);
+}
+
+.social-link {
+  color: var(--tertiary-color);
+  font-size: 30px;
+  margin: 0px 7px 0 7px;
+  text-align: center;
+}
+.social-link:hover {
+  color: var(--secondary-color);
+}
+.social-links {
+  margin-top: 17px;
+}
+.signature {
+  color: var(--secondary-color);
+  font-family: var(--body-font);
+  margin-top: 30px;
+  margin-bottom: 50px;
+  padding: 0 50px;
+}
+.portfolio-link {
+  color: var(--tertiary-color);
+  text-decoration: none;
+}
+.portfolio-link:hover {
+  color: var(--tertiary-color);
+}
