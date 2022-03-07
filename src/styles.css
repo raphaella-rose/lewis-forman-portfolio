@@ -134,6 +134,7 @@ body {
 .shows {
   margin: 100px 0px;
 }
+
 .project {
   height: 400px;
   width: 400px;
@@ -148,6 +149,7 @@ body {
   height: 400px;
   width: 400px;
 }
+
 .hover-overlay {
   position: absolute;
   top: 0;
