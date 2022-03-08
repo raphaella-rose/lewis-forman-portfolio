@@ -141,7 +141,7 @@ body {
   object-fit: cover;
 }
 .project-link {
-  color: var(--tertiary-color);
+  color: #eeeeee;
   font-family: var(--heading-font);
 }
 .hover-image {
@@ -173,7 +173,7 @@ body {
 }
 
 .hover-overlay:hover {
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 .hover-description {
