@@ -3,7 +3,7 @@ import data from "./data.json" assert {type: 'json'};
 
 function displayPortfolio(data) {
   let portfolioHTML = "";
-  let portfolioElement = document.querySelector("#portfolio")
+  let portfolioElement = document.querySelector("#portfolio");
   for (let show of data)  {
   portfolioHTML += 
     ` <div class="row">
@@ -45,4 +45,4 @@ function displayPortfolio(data) {
     }
    
 
-displayPortfolio(data)
+displayPortfolio(data);
