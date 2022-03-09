@@ -99,9 +99,13 @@ body {
   font-weight: 500;
   font-size: 17px;
 }
+.counterminers-title {
+  text-align: left;
+  font-size: 100px;
+}
 .counterminers-blurb {
   margin-top: 50px;
-  padding-right: 100px;
+  text-align: left;
 }
 .learn-more {
   border: 1px solid var(--primary-color);
@@ -120,22 +124,23 @@ body {
   color: var(--secondary-color);
 }
 .info-wrapper {
-  margin: 225px 150px 150px;
+  margin-top: 100px;
+  margin-bottom: 150px;
 }
-
+.logo-wrapper {
+  text-align: right;
+  padding-right: 75px;
+  padding-top: 50px;
+}
 .logo {
   border-radius: 50%;
   height: auto;
-  width: 300px;
-  position: absolute;
-  top: 115px;
-  right: 50px;
+  width: 250px;
 }
 .shows {
-  margin-top: 100px;
+  margin-top: 75px;
   padding: 12px;
 }
-
 .show-wrapper {
   display: flex;
   justify-content: center;
