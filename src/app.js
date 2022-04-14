@@ -45,4 +45,3 @@ function displayPortfolio(data) {
     }
    
 
-displayPortfolio(data);
