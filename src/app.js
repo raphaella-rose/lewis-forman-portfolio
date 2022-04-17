@@ -1,10 +1,32 @@
 let data = [[ {
-  "name": "Little Shop of Horrors",
-  "image": "/images/little-shop.png"
-}, {
   "name": "Cheeky Girls",
   "image": "/images/cheeky-girls.png"
 }, {
+   "name": "Roots" ,
+  "image":  "/images/Roots.png"
+}, {
+   "name": "Ondine" ,
+  "image":  "/images/Ondine.png"
+}],
+[{
+   "name": "Candlewasters Spring Showcase" ,
+  "image":  "/images/cw-spring.png"
+}, 
+{
+   "name": "Certain Young Men" ,
+  "image":  "/images/young-men.png"
+},
+{
+   "name": "Boys" ,
+  "image":  "/images/Boys.png"
+}],
+[{
+   "name": "Prince Archipelago" ,
+  "image":  "/images/prince.png"
+},{
+   "name": "The Roses of Eyam" ,
+  "image":  "/images/roses-of-eyam.png"
+},{
   "name": "Paradok Creative Producing Course" ,
   "image":  "/images/paradok-creative.png"
 }],
@@ -12,31 +34,52 @@ let data = [[ {
   "name": "Legally Blonde",
   "image": "/images/legally-blonde.png"
 }, {
+   "name": "A Streetcar Named Desire" ,
+  "image":  "/images/streetcar.png"
+},{
+   "name": "Candlewasters Winter Showcase" ,
+  "image":  "/images/cw-winter.png"
+},],
+[{
+   "name": "Wasted" ,
+  "image":  "/images/Wasted.png"
+},{
   "name": "Escape the Bedlam",
   "image": "/images/bedlam.png"
 }, {
+   "name": "Haunted House" ,
+  "image":  "/images/haunted-house.png"
+}], 
+[{
+   "name": "The Improverts" ,
+  "image":  "/images/improverts.png"
+},{
   "name": "Radio 69" ,
   "image":  "/images/radio-69.jpg"
-}],
-[{
+},
+{
   "name": "Catching Up",
   "image": "/images/catching-up.png"
-}, {
+}], 
+[{
   "name": "The Scottish Online Student Drama Festival",
   "image": "/images/scottish-fest.png"
+}, {
+   "name": "In The Name of the Father" ,
+  "image":  "/images/itnotf.png"
 }, {
   "name": "Seven Interviews" ,
   "image":  "/images/seven-interviews.png"
 }],
 [{
+   "name": "Zoogmalion" ,
+  "image":  "/images/Zoogmalion.png"
+},{
   "name": "Eight",
   "image": "/images/eight.png"
 }, {
   "name": "Good Girls Go To Heaven",
   "image": "/images/good-girls.jpg"
-}, {
-  "name": "Believe" ,
-  "image":  "/images/believe.jpeg"
 }],
 [{
  "name": "The Closing of a Small and Insignificant Bowling Alley" ,
@@ -45,12 +88,12 @@ let data = [[ {
   "name": "Dirk Gently's Holistic Detective Agency",
   "image": "/images/detective-agency.png"
 }, {
-  "name": "Mother and the Monster",
-  "image": "/images/mother-monster.jpg"
-}],
-[{
   "name": "Deficit" ,
   "image":  "/images/deficit.jpg"
+}],
+[ {
+  "name": "Mother and the Monster",
+  "image": "/images/mother-monster.jpg"
 }, {
   "name": "Moana",
   "image": "/images/moana.png"
