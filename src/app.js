@@ -1,9 +1,7 @@
-import data from "./data.json" assert {type: 'json'};
 
-
-function displayPortfolio(data) {
+function displayPortfolio() {
 alert("Test")
     }
 
 
-displayPortfolio(data)
+displayPortfolio()
