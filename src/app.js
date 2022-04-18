@@ -128,7 +128,7 @@ function displayPortfolio(data) {
   for (let show of data)  {
   portfolioHTML += 
     ` <div class="row">
-    <div class="col-sm text-center mt-2">
+    <div class="col-sm text-center mt-4">
     <div class="hover-image">
       <img class="img-fluid rounded project" src=${show[0].image} alt=${show[0].name}>
       <div class="hover-overlay hover-overlay--solid">
@@ -138,7 +138,7 @@ function displayPortfolio(data) {
       </div>
     </div>
     </div>
-    <div class="col-sm text-center mt-2">
+    <div class="col-sm text-center mt-4">
     <div class="hover-image">
       <img class="img-fluid rounded project" src=${show[1].image} alt=${show[1].name}>
       <div class="hover-overlay hover-overlay--solid">
@@ -148,7 +148,7 @@ function displayPortfolio(data) {
       </div>
     </div>
     </div>
-    <div class="col-sm text-center mt-2">
+    <div class="col-sm text-center mt-4">
     <div class="hover-image">
       <img class="img-fluid rounded project" src=${show[2].image} alt=${show[2].name}>
       <div class="hover-overlay hover-overlay--solid">
