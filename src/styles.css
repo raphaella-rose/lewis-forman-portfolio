@@ -337,6 +337,18 @@ footer {
   .text-wrapper .title {
     margin-top: 0;
   }
+  .title-wrapper {
+    margin-top: 125px;
+    margin-left: 0;
+    text-align: center;
+  }
+  .bio-wrapper {
+    padding: 25px 75px;
+    text-align: center;
+  }
+  .text {
+    font-size: 15px;
+  }
 }
 @media (max-width: 320px) {
   .hero h1 {
@@ -388,4 +400,18 @@ footer {
   .text-wrapper .title {
     margin-top: 0;
   }
+    .title-wrapper {
+      margin-top: 125px;
+      margin-left: 0;
+      text-align: center;
+    }
+    
+    .bio-wrapper {
+      padding: 25px 40px;
+      text-align: center;
+    }
+    
+    .text {
+      font-size: 15px;
+    }
 }
