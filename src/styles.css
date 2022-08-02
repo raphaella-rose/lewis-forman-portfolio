@@ -187,7 +187,6 @@ text-decoration: none;
 .project-link {
   color: #eeeeee;
   font-family: var(--heading-font);
-  font-size: 15px;
 }
 .project-link:hover {
   color: #eeeeee;
